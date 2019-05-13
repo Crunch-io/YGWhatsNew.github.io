@@ -5,22 +5,22 @@
     <description>Recent content in feature on Modern survey data analysis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>2019-05-08T20:23:10+00:00</lastBuildDate>
+    <lastBuildDate>2019-05-13T13:22:27+00:00</lastBuildDate>
     
         <atom:link href="//YGWhatsNew.github.io/categories/feature/index.xml" rel="self" type="application/rss+xml" />
     
     
     
     <item>
-      <title>Quick Multitable Export</title>
-      <link>//YGWhatsNew.github.io/export-this-table/</link>
-      <pubDate>2019-04-05T23:20:47-04:00</pubDate>
+      <title>Complete Cases Release</title>
+      <link>//YGWhatsNew.github.io/complete-cases/</link>
+      <pubDate>2019-04-02T23:20:47-04:00</pubDate>
       
-      <guid>//YGWhatsNew.github.io/export-this-table/</guid>
+      <guid>//YGWhatsNew.github.io/complete-cases/</guid>
       <labsOnly>false</labsOnly>
       <noProfiles>false</noProfiles>
       <pinned>false</pinned>
-      <description>Export only what you see to XLSX or use saved settings to include more.</description>
+      <description>Complete Cases Checkbox for Custom Audiences</description>
     </item>
     
     
