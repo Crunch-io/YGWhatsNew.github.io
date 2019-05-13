@@ -1,18 +1,28 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-
+    <title>Feature Announcements on Modern survey data analysis</title>
+    <link>//YGWhatsNew.github.io/</link>
+    <description>Recent content in Feature Announcements on Modern survey data analysis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>2019-05-13T17:42:55+00:00</lastBuildDate>
+    
+        <atom:link href="//YGWhatsNew.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
     <item>
       <title>Complete Cases Release</title>
-      <link>//YGWhatsNew.github.io/Complete%20Cases.html</link>
-      <pubDate>2019-04-02T12:49:40+00:00</pubDate>
+      <link>//YGWhatsNew.github.io/complete-cases/</link>
+      <pubDate>2019-05-13T17:36:33+00:00</pubDate>
       
-      <guid>//YGWhatsNew.github.io/Complete%20Cases.html</guid>
-      <description>We've launched a new feature for building Custom Audiences: the Complete Cases Checkbox. Click here to learn more</description>
+      <guid>//YGWhatsNew.github.io/complete-cases/</guid>
+      <labsOnly>false</labsOnly>
+      <noProfiles>false</noProfiles>
+      <pinned>true</pinned>
+      <description>Complete Cases Checkbox for Custom Audiences</description>
     </item>
     
-   
-   
     
   </channel>
 </rss>
